@@ -1,0 +1,16 @@
+C:\Users\thien\source\repos\Gas\Gas\bin\Debug\Gas.exe.config
+C:\Users\thien\source\repos\Gas\Gas\bin\Debug\Gas.exe
+C:\Users\thien\source\repos\Gas\Gas\bin\Debug\Gas.pdb
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Properties.Resources.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.csproj.GenerateResource.cache
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.exe
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.pdb
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Main.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Customer.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Gas.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Owe.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.addOwe.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.csprojAssemblyReference.cache
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.OweCustomer.resources
+C:\Users\thien\source\repos\Gas\Gas\obj\Debug\Gas.Pay.resources
